@@ -1,10 +1,8 @@
 # Hello World
 
 ## Test dari Surya
-<<<<<<< HEAD
 
 ##Test dari Bench Develop
-Conflict dari Budi
-=======
-Conflict dari Surya
->>>>>>> 13a237ff4d55139d6d09ce88afbd305e7198ca55
+Conflict dari Budi dan Surya
+
+Example Pull Request
